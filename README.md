@@ -61,6 +61,4 @@ This dashboard enables:
   
   ▫️ DIVIDE
   
-  ▫️ Context transition handling
-  
   ▫️ Auxiliary KPI measures for progress bar visuals
